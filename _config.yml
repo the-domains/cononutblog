@@ -1,0 +1,14 @@
+layout_spectrum: 0.9223243829328567
+typography_spectrum: 0.6120974691584706
+color:
+  brandStrength: 0.2556392950937152
+  lightness: 0.1861962175462395
+  saturation: 0.03536523086950183
+  rhythmicContrast: 0.4949225482996553
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Cononutblog
